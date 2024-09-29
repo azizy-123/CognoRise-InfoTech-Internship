@@ -1,0 +1,5 @@
+# Hello, this is my second project in CognoInfo Tech Internship,
+# here i tried to develop a model to detedt the X-RAYs images to classify it
+# one from three categories (Covid, Pneumonia, Normal), 
+# I used the DL in this after i converted the images from BGR to RGB fromat,
+# because it sutiable and good dealed with CNN  
